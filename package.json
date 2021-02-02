@@ -1,0 +1,21 @@
+{
+  "name": "base-boilerplate",
+  "version": "1.0.0",
+  "description": "Boilerplate with Prettier, ESLint,husky and lint-staged",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mhstrkmp/base-boilerplate.git"
+  },
+  "keywords": [],
+  "author": "Matthias Heisterkamp",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mhstrkmp/base-boilerplate/issues"
+  },
+  "homepage": "https://github.com/mhstrkmp/base-boilerplate#readme"
+}
